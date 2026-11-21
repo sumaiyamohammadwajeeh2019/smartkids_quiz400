@@ -1,0 +1,30 @@
+{
+  "name": "SMRR Quiz App - All 400",
+  "short_name": "SMRR Quiz",
+  "description": "Science 100 + Math 100 + English 100 + Coding + Speaking 100 - Developed by SMRR Team, Bangladesh",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f2043",
+  "theme_color": "#0f2043",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
